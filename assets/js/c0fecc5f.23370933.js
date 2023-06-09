@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstd_atem_doc=self.webpackChunkstd_atem_doc||[]).push([[2667],{1496:a=>{a.exports=JSON.parse('{"label":"catalog","permalink":"/blog/tags/catalog","allTagsPath":"/blog/tags","count":1}')}}]);

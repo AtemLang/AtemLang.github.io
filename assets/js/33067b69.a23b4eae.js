@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstd_atem_doc=self.webpackChunkstd_atem_doc||[]).push([[3259],{980:e=>{e.exports=JSON.parse('{"label":"generics","permalink":"/blog/tags/generics","allTagsPath":"/blog/tags","count":1}')}}]);

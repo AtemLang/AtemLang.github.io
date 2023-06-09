@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://AtemLang.github.io/blog</id>
+    <title>Atem Language Blog</title>
+    <updated>2023-06-09T02:16:12.547Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://AtemLang.github.io/blog"/>
+    <subtitle>Atem Language Blog</subtitle>
+    <icon>https://AtemLang.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Std-atem Research Catalog: Generics]]></title>
+        <id>https://AtemLang.github.io/blog/research-catalog</id>
+        <link href="https://AtemLang.github.io/blog/research-catalog"/>
+        <updated>2023-06-09T02:16:12.547Z</updated>
+        <summary type="html"><![CDATA[This is a research catalog for Generics in std-atem]]></summary>
+        <author>
+            <name>Zhige Chen</name>
+            <uri>https://github.com/Minecraft1248</uri>
+        </author>
+        <category label="catalog" term="catalog"/>
+        <category label="generics" term="generics"/>
+    </entry>
+</feed>
