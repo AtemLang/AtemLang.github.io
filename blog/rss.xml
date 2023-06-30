@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Atem Blog</title>
+        <title>Atem Language Blog</title>
         <link>https://AtemLang.github.io/blog</link>
-        <description>Atem Blog</description>
+        <description>Atem Language Blog</description>
         <lastBuildDate>Fri, 09 Jun 2023 02:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>

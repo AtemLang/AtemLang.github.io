@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AtemLang.github.io/blog</id>
-    <title>Atem Blog</title>
+    <title>Atem Language Blog</title>
     <updated>2023-06-09T02:16:12.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://AtemLang.github.io/blog"/>
-    <subtitle>Atem Blog</subtitle>
+    <subtitle>Atem Language Blog</subtitle>
     <icon>https://AtemLang.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Atem Research Catalog: Generics]]></title>
