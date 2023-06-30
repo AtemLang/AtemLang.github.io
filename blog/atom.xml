@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AtemLang.github.io/blog</id>
-    <title>Atem Language Blog</title>
+    <title>Atem Blog</title>
     <updated>2023-06-09T02:16:12.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://AtemLang.github.io/blog"/>
-    <subtitle>Atem Language Blog</subtitle>
+    <subtitle>Atem Blog</subtitle>
     <icon>https://AtemLang.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Atem Research Catalog: Generics]]></title>
@@ -13,7 +13,7 @@
         <link href="https://AtemLang.github.io/blog/research-catalog"/>
         <updated>2023-06-09T02:16:12.547Z</updated>
         <summary type="html"><![CDATA[This is a research catalog for Generics in Atem]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="avoiding-shadow-languages">Avoiding Shadow Languages<a href="#avoiding-shadow-languages" class="hash-link" aria-label="Direct link to Avoiding Shadow Languages" title="Direct link to Avoiding Shadow Languages">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="early-checked-or-late-checked">Early-checked or Late-checked<a href="#early-checked-or-late-checked" class="hash-link" aria-label="Direct link to Early-checked or Late-checked" title="Direct link to Early-checked or Late-checked">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="implementation-model">Implementation Model<a href="#implementation-model" class="hash-link" aria-label="Direct link to Implementation Model" title="Direct link to Implementation Model">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="jit-compilation">JIT Compilation<a href="#jit-compilation" class="hash-link" aria-label="Direct link to JIT Compilation" title="Direct link to JIT Compilation">​</a></h2>]]></content>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="avoiding-shadow-languages">Avoiding Shadow Languages<a href="#avoiding-shadow-languages" class="hash-link" aria-label="Direct link to Avoiding Shadow Languages" title="Direct link to Avoiding Shadow Languages">​</a></h2><h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="early-checked-or-late-checked">Early-checked or Late-checked<a href="#early-checked-or-late-checked" class="hash-link" aria-label="Direct link to Early-checked or Late-checked" title="Direct link to Early-checked or Late-checked">​</a></h2><h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="implementation-model">Implementation Model<a href="#implementation-model" class="hash-link" aria-label="Direct link to Implementation Model" title="Direct link to Implementation Model">​</a></h2><h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="jit-compilation">JIT Compilation<a href="#jit-compilation" class="hash-link" aria-label="Direct link to JIT Compilation" title="Direct link to JIT Compilation">​</a></h2>]]></content>
         <author>
             <name>Zhige Chen</name>
             <uri>https://github.com/Minecraft1248</uri>
