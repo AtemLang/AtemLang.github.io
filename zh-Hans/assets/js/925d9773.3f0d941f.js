@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstd_atem_doc=self.webpackChunkstd_atem_doc||[]).push([[2543],{848:e=>{e.exports=JSON.parse('{"permalink":"/zh-Hans/blog/tags/generics","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

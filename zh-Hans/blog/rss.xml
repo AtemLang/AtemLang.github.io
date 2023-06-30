@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Atem Language Blog</title>
+        <link>https://AtemLang.github.io/zh-Hans/blog</link>
+        <description>Atem Language Blog</description>
+        <lastBuildDate>Fri, 30 Jun 2023 14:25:31 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[Atem Research Catalog: Generics]]></title>
+            <link>https://AtemLang.github.io/zh-Hans/blog/research-catalog</link>
+            <guid>https://AtemLang.github.io/zh-Hans/blog/research-catalog</guid>
+            <pubDate>Fri, 30 Jun 2023 14:25:31 GMT</pubDate>
+            <description><![CDATA[This is a research catalog for Generics in Atem]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="avoiding-shadow-languages">Avoiding Shadow Languages<a href="#avoiding-shadow-languages" class="hash-link" aria-label="Avoiding Shadow Languages的直接链接" title="Avoiding Shadow Languages的直接链接">​</a></h2><h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="early-checked-or-late-checked">Early-checked or Late-checked<a href="#early-checked-or-late-checked" class="hash-link" aria-label="Early-checked or Late-checked的直接链接" title="Early-checked or Late-checked的直接链接">​</a></h2><h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="implementation-model">Implementation Model<a href="#implementation-model" class="hash-link" aria-label="Implementation Model的直接链接" title="Implementation Model的直接链接">​</a></h2><h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="jit-compilation">JIT Compilation<a href="#jit-compilation" class="hash-link" aria-label="JIT Compilation的直接链接" title="JIT Compilation的直接链接">​</a></h2>]]></content:encoded>
+            <category>catalog</category>
+            <category>generics</category>
+        </item>
+    </channel>
+</rss>

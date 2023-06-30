@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstd_atem_doc=self.webpackChunkstd_atem_doc||[]).push([[2395],{7988:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"langref"}')}}]);

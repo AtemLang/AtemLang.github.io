@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://AtemLang.github.io/zh-Hans/blog</id>
+    <title>Atem Language Blog</title>
+    <updated>2023-06-30T14:25:31.718Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://AtemLang.github.io/zh-Hans/blog"/>
+    <subtitle>Atem Language Blog</subtitle>
+    <icon>https://AtemLang.github.io/zh-Hans/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Atem Research Catalog: Generics]]></title>
+        <id>https://AtemLang.github.io/zh-Hans/blog/research-catalog</id>
+        <link href="https://AtemLang.github.io/zh-Hans/blog/research-catalog"/>
+        <updated>2023-06-30T14:25:31.718Z</updated>
+        <summary type="html"><![CDATA[This is a research catalog for Generics in Atem]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="avoiding-shadow-languages">Avoiding Shadow Languages<a href="#avoiding-shadow-languages" class="hash-link" aria-label="Avoiding Shadow Languages的直接链接" title="Avoiding Shadow Languages的直接链接">​</a></h2><h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="early-checked-or-late-checked">Early-checked or Late-checked<a href="#early-checked-or-late-checked" class="hash-link" aria-label="Early-checked or Late-checked的直接链接" title="Early-checked or Late-checked的直接链接">​</a></h2><h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="implementation-model">Implementation Model<a href="#implementation-model" class="hash-link" aria-label="Implementation Model的直接链接" title="Implementation Model的直接链接">​</a></h2><h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="jit-compilation">JIT Compilation<a href="#jit-compilation" class="hash-link" aria-label="JIT Compilation的直接链接" title="JIT Compilation的直接链接">​</a></h2>]]></content>
+        <author>
+            <name>Zhige Chen</name>
+            <uri>https://github.com/Minecraft1248</uri>
+        </author>
+        <category label="catalog" term="catalog"/>
+        <category label="generics" term="generics"/>
+    </entry>
+</feed>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstd_atem_doc=self.webpackChunkstd_atem_doc||[]).push([[2315],{4986:a=>{a.exports=JSON.parse('[{"label":"catalog","permalink":"/zh-Hans/blog/tags/catalog","count":1},{"label":"generics","permalink":"/zh-Hans/blog/tags/generics","count":1}]')}}]);
