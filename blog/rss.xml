@@ -4,7 +4,7 @@
         <title>Atem Language Blog</title>
         <link>https://AtemLang.github.io/blog</link>
         <description>Atem Language Blog</description>
-        <lastBuildDate>Fri, 09 Jun 2023 02:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 07:57:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en-US</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Atem Research Catalog: Generics]]></title>
             <link>https://AtemLang.github.io/blog/research-catalog</link>
             <guid>https://AtemLang.github.io/blog/research-catalog</guid>
-            <pubDate>Fri, 09 Jun 2023 02:16:12 GMT</pubDate>
+            <pubDate>Wed, 19 Jul 2023 07:57:33 GMT</pubDate>
             <description><![CDATA[This is a research catalog for Generics in Atem]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="avoiding-shadow-languages">Avoiding Shadow Languages<a href="#avoiding-shadow-languages" class="hash-link" aria-label="Direct link to Avoiding Shadow Languages" title="Direct link to Avoiding Shadow Languages">​</a></h2><h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="early-checked-or-late-checked">Early-checked or Late-checked<a href="#early-checked-or-late-checked" class="hash-link" aria-label="Direct link to Early-checked or Late-checked" title="Direct link to Early-checked or Late-checked">​</a></h2><h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="implementation-model">Implementation Model<a href="#implementation-model" class="hash-link" aria-label="Direct link to Implementation Model" title="Direct link to Implementation Model">​</a></h2><h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="jit-compilation">JIT Compilation<a href="#jit-compilation" class="hash-link" aria-label="Direct link to JIT Compilation" title="Direct link to JIT Compilation">​</a></h2>]]></content:encoded>
             <category>catalog</category>
